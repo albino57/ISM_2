@@ -1,0 +1,29 @@
+Updating register of ISM 2.
+
+    - 30/January/2020
+     --- Correção de BUG na linha 312. (Bug Visual). "Remoção do s de Sensors e correção de alinhamento".
+        Tempo de correção: 11 minutos.
+
+    - 31/January/2020 
+     --- Adicionando tela de memorial da Suelen na linha 38, 236 e 1296.
+        Tempo de criação: 1 hora e 30 minutos.
+
+    - 01/February/2020
+     --- Incrementando a tela de memorial da Suelen na função void suelen_memory(){}.
+        Tempo de edição: 1 hora.    
+
+    - 05/February/2020
+     --- Criando animação na tela principal dos icons.
+         -Linha 337 u8g.drawBitmapP(4, 42, 1, 9, thermometer); substituida por thermometerAnimation_DHT11(); (CANCELLED)
+         -Linha 345 u8g.drawBitmapP(4, 42, 1, 9, thermometer); substituida por thermometerAnimation_DHT11(); (CANCELLED)
+         -Linha 353 u8g.drawBitmapP(4, 42, 1, 9, thermometer); substituida por thermometerAnimation_DHT11(); (CANCELLED)
+    - ??/February/2020
+     --- Adicionando função de reset nas telas HDC1080, DHT11, BMP180. (CANCELLED)
+
+
+
+
+
+
+
+---Document created in 29/01/2020 12:22---
